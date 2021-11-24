@@ -159,6 +159,15 @@ footer ul li {
   padding: 4px;
 }
 
+.retail img {
+  height: 170px;
+}
+
+iframe {
+  width: 420px;
+  height: 615px;
+}
+
 @media only screen and (max-device-width: 1000px) {
   form {
     margin: auto !important;
@@ -192,5 +201,9 @@ footer ul li {
   }
   .image1 img {
     width: 100%;
+  }
+  iframe {
+    width: 420px;
+    height: 215px;
   }
 }
